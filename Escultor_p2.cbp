@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Escultor_p2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Escultor_p2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Escultor_p2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Escultor_p2.cbp" />
+		<Unit filename="Escultor_p2.depend" />
+		<Unit filename="Escultor_p2.layout" />
+		<Unit filename="LerArquivos.cpp" />
+		<Unit filename="LerArquivos.h" />
+		<Unit filename="cutbox.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="cutbox.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="cutelip.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="cutelip.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="cutesfera.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="cutesfera.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="cutvoxel.cpp" />
+		<Unit filename="cutvoxel.h" />
+		<Unit filename="entrada.txt" />
+		<Unit filename="figura_geo.cpp" />
+		<Unit filename="figura_geo.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="putbox.cpp" />
+		<Unit filename="putbox.h" />
+		<Unit filename="putelip.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="putelip.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="putesfera.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="putesfera.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="putvoxel.cpp" />
+		<Unit filename="putvoxel.h" />
+		<Unit filename="sculptor.h" />
+		<Unit filename="voxel.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

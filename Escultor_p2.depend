@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1656016088 source:c:\users\hp\desktop\arquivos_nelma\2022.1\pa\projeto_p1\escultor_p2\figura_geo.cpp
+	<iostream>
+	"figura_geo.h"
+
+1656015939 c:\users\hp\desktop\arquivos_nelma\2022.1\pa\projeto_p1\escultor_p2\figura_geo.h
+	"sculptor.h"
+
+1656043746 c:\users\hp\desktop\arquivos_nelma\2022.1\pa\projeto_p1\escultor_p2\sculptor.h
+	"voxel.h"
+
+1656014911 c:\users\hp\desktop\arquivos_nelma\2022.1\pa\projeto_p1\escultor_p2\voxel.h
+
+1656043709 source:c:\users\hp\desktop\arquivos_nelma\2022.1\pa\projeto_p1\escultor_p2\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<fstream>
+	<string>
+	"sculptor.h"
+	"LerArquivos.h"
+
+1656037793 c:\users\hp\desktop\arquivos_nelma\2022.1\pa\projeto_p1\escultor_p2\putbox.h
+	"figura_geo.h"
+	"sculptor.h"
+	"voxel.h"
+
+1656017431 c:\users\hp\desktop\arquivos_nelma\2022.1\pa\projeto_p1\escultor_p2\lerarquivos.h
+	<vector>
+	"figura_geo.h"
+	<string>
+
+1656043810 source:c:\users\hp\desktop\arquivos_nelma\2022.1\pa\projeto_p1\escultor_p2\putbox.cpp
+	"putbox.h"
+	<iostream>
+
+1656020471 source:c:\users\hp\desktop\arquivos_nelma\2022.1\pa\projeto_p1\escultor_p2\lerarquivos.cpp
+	"LerArquivos.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	"putbox.h"
+
+1656043766 source:c:\users\hp\desktop\arquivos_nelma\2022.1\pa\projeto_p1\escultor_p2\cutvoxel.cpp
+	"cutvoxel.h"
+
+1656041430 c:\users\hp\desktop\arquivos_nelma\2022.1\pa\projeto_p1\escultor_p2\cutvoxel.h
+	"sculptor.h"
+	"figura_geo.h"
+
+1656035792 source:c:\users\hp\desktop\arquivos_nelma\2022.1\pa\projeto_p1\escultor_p2\putvoxel.cpp
+	"putvoxel.h"
+
+1656035648 c:\users\hp\desktop\arquivos_nelma\2022.1\pa\projeto_p1\escultor_p2\putvoxel.h
+	"sculptor.h"
+	"figura_geo.h"
+
